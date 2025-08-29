@@ -34,7 +34,7 @@ const About = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16 animate-slide-up">
           <h2 className="text-4xl md:text-6xl font-bold text-foreground mb-6">
-            Why Choose <span className="bg-gradient-primary bg-clip-text text-transparent">Lays</span>?
+            Why Choose <span className="text-secondary">Lays</span>?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             For generations, we've been perfecting the art of creating the perfect potato chip. 

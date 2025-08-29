@@ -40,7 +40,7 @@ const ProductShowcase = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16 animate-slide-up">
           <h2 className="text-4xl md:text-6xl font-bold text-foreground mb-6">
-            Our <span className="bg-gradient-primary bg-clip-text text-transparent">Signature</span> Flavors
+            Our <span className="text-secondary">Signature</span> Flavors
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Each flavor tells a story. Each bite creates a memory. 
